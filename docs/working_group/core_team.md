@@ -3,18 +3,18 @@
 Meet the people behind ENIGMA-PD!
 
 <div class="grid cards" markdown>
-- ![Ysbrand](docs/assets/profile_pictures/ysbrand.jpg){ width="80" } **[Ysbrand van der Werf](https://pure.amsterdamumc.nl/en/persons/ysbrand-van-der-werf)**  
+- ![Ysbrand](../assets/profile_pictures/ysbrand.jpg){ width="80" } **[Ysbrand van der Werf](https://pure.amsterdamumc.nl/en/persons/ysbrand-van-der-werf)**  
   Amsterdam UMC, The Netherlands
-- ![Max](docs/assets/profile_pictures/max.jpeg){ width="80" } **[Max Laansma](https://pure.amsterdamumc.nl/en/persons/max-laansma)**  
+- ![Max](../assets/profile_pictures/max.jpeg){ width="80" } **[Max Laansma](https://pure.amsterdamumc.nl/en/persons/max-laansma)**  
   Amsterdam UMC, The Netherlands
-- ![Conor](docs/assets/profile_pictures/conor.jpg){ width="80" } **[Conor Owens-Walton](https://profiles.sc-ctsi.org/conor.owens-walton)**  
+- ![Conor](../assets/profile_pictures/conor.jpg){ width="80" } **[Conor Owens-Walton](https://profiles.sc-ctsi.org/conor.owens-walton)**  
   University of Southern California, USA
-- ![Eva](docs/assets/profile_pictures/eva.jpeg){ width="80" } **[Eva van Heese](https://pure.amsterdamumc.nl/en/persons/eva-van-heese)**  
+- ![Eva](../assets/profile_pictures/eva.jpeg){ width="80" } **[Eva van Heese](https://pure.amsterdamumc.nl/en/persons/eva-van-heese)**  
   Amsterdam UMC, The Netherlands
-- ![Paul](docs/assets/profile_pictures/paul.jpeg){ width="80" } **[Paul Thompson](https://keck.usc.edu/faculty-search/paul-m-thompson/)**  
+- ![Paul](../assets/profile_pictures/paul.jpeg){ width="80" } **[Paul Thompson](https://keck.usc.edu/faculty-search/paul-m-thompson/)**  
   University of Southern California, USA
-- ![Neda](docs/assets/profile_pictures/neda.jpeg){ width="80" } **[Neda Jahanshad](https://keck.usc.edu/faculty-search/neda-jahanshad/)**  
+- ![Neda](../assets/profile_pictures/neda.jpeg){ width="80" } **[Neda Jahanshad](https://keck.usc.edu/faculty-search/neda-jahanshad/)**  
   University of Southern California, USA
-- ![Emile](docs/assets/profile_pictures/emile.jpeg){ width="80" } **[Emile d'Angremont](https://pure.amsterdamumc.nl/en/persons/emile-dangremont)**  
+- ![Emile](../assets/profile_pictures/emile.jpeg){ width="80" } **[Emile d'Angremont](https://pure.amsterdamumc.nl/en/persons/emile-dangremont)**  
   Amsterdam UMC, The Netherlands
 </div>
