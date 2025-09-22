@@ -1,8 +1,8 @@
 site_name: ENIGMA-PD docs
 theme:
   name: material
-  logo: docs/logos/enigma_300DPI_small.png
-  favicon: docs/logos/enigma_300DPI_small.png
+  logo: docs/assets/logos/enigma_300DPI_small.png
+  favicon: docs/assets/logos/enigma_300DPI_small.png
   palette:
     primary: teal
   
@@ -38,7 +38,7 @@ nav:
 
   - Resources: 
     - Overview: resources/overview.md
-    - ENIGMA-PD preregistrations: resources/preregistrations.md
+    - ENIGMA-PD preregistrations: resources/how_to_guides/preregistrations.md
     
   
 
