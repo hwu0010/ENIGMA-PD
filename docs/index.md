@@ -23,12 +23,12 @@ This site provides information on the ENIGMA-PD team, ongoing and completed proj
 -   :material-typewriter:{ .lg .middle } __Ongoing Projects__
     
 
-    [:octicons-arrow-right-24: Ongoing Projects](ongoing_projects/overview.md)
+    [:octicons-arrow-right-24: Ongoing Projects](projects/ongoing/overview.md)
 
 -   :material-typewriter:{ .lg .middle } __Completed Projects__
     
 
-    [:octicons-arrow-right-24: Completed Projects](completed_projects/overview.md)
+    [:octicons-arrow-right-24: Completed Projects](projects/completed/overview.md)
 
 </div>
 

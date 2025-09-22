@@ -3,7 +3,7 @@
 
 <div class="grid cards" markdown>
 
--   :octicons-arrow-right-24: [__Cortical-Subcortical__](cort-sub.md)
+-   :octicons-arrow-right-24: [__Cortical-Subcortical__](cort_sub.md)
 
 -   :octicons-arrow-right-24: [__Subcortical shape__](shape.md)
 
