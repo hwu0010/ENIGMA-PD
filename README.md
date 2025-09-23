@@ -2,8 +2,6 @@
 
 This repository is hosted by the ENIGMA-PD Working Group, a global collaborative effort to advance our understanding of Parkinson’s disease through large-scale neuroimaging analyses.
 
----
-
 ## Check out our website!
 
 On our [website](https://enigma-infra.github.io/ENIGMA-PD/), you can find information about:
@@ -13,8 +11,6 @@ On our [website](https://enigma-infra.github.io/ENIGMA-PD/), you can find inform
   - *Completed projects* → browse related publications.  
   - *Ongoing projects* → explore project descriptions, documentation, and code for running analyses.  
 - **General Resources**: Guidance on BIDSification, Nipoppy, using containers, and more.
-
----
 
 ## Contact
 
