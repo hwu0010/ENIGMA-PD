@@ -2,7 +2,7 @@
 
 ## Project team
 
-| ![](../../assets/profile_pictures/eva.jpeg)| ![](../../assets/profile_pictures/julia.jpeg){: style="transform: scale(0.95);"}| ![](../../assets/profile_pictures/odile.jpg)| ![](../../assets/profile_pictures/ysbrand.jpg)|![](../../assets/profile_pictures/jb.jpg) |
+| ![](../../assets/profile_pictures/eva.jpeg)| ![](../../assets/profile_pictures/julia.jpeg){: style="transform: scale(0.95);"}| ![](../../assets/profile_pictures/odile.jpg){: style="transform: scale(1.1);"}| ![](../../assets/profile_pictures/ysbrand.jpg)|![](../../assets/profile_pictures/jb.jpg) |
 |---|---|---|---|---|
 |**Eva van Heese**<sup>1</sup> (brain morphology)|**Julia Katharina-Pfarr**<sup>2</sup> (questionnaire harmonisation) |**Odile van den Heuvel**<sup>1, 3</sup> (PI)|**Ysbrand van der Werf**<sup>1</sup> (PI)|**Jean-Baptiste Poline**<sup>2</sup> (PI)|
 
@@ -37,3 +37,4 @@ Read more about this study in the pre-registration (*coming soon!*)
 
 
 [Link to GitHub repository](https://github.com/ENIGMA-infra/psych-in-harmony)
+
