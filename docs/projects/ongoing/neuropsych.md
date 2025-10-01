@@ -2,11 +2,11 @@
 
 ## Project team
 
-| <img src="../../assets/profile_pictures/eva.jpeg" style="height:150px; width:auto;"> 
-| <img src="../../assets/profile_pictures/julia.jpeg" style="height:150px; width:auto;"> 
-| <img src="../../assets/profile_pictures/odile.jpg" style="height:150px; width:auto;"> 
-| <img src="../../assets/profile_pictures/ysbrand.jpg" style="height:150px; width:auto;"> 
-| <img src="../../assets/profile_pictures/jb.jpg" style="height:150px; width:auto;"> |
+| ![](../../assets/profile_pictures/eva.jpeg){: style="height:150px;"} 
+| ![](../../assets/profile_pictures/julia.jpeg){: style="height:150px;"} 
+| ![](../../assets/profile_pictures/odile.jpg){: style="height:150px;"} 
+| ![](../../assets/profile_pictures/ysbrand.jpg){: style="height:150px;"} 
+| ![](../../assets/profile_pictures/jb.jpg){: style="height:150px;"} |
 |---|---|---|---|---|
 | **Eva van Heese**<sup>1</sup> (brain morphology)
 | **Julia Katharina-Pfarr**<sup>2</sup> (questionnaire harmonisation)
@@ -43,5 +43,6 @@ Read more about this study in the pre-registration (*coming soon!*)
 
 
 [Link to GitHub repository](https://github.com/ENIGMA-infra/psych-in-harmony)
+
 
 
