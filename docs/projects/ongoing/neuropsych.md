@@ -2,11 +2,17 @@
 
 ## Project team
 
-| ![](../../assets/profile_pictures/eva.jpeg)| ![](../../assets/profile_pictures/julia.jpeg){: style="transform: scale(0.95);"}| ![](../../assets/profile_pictures/odile.jpg){: style="transform: scale(1.1);"}| ![](../../assets/profile_pictures/ysbrand.jpg)|![](../../assets/profile_pictures/jb.jpg) |
+| <img src="../../assets/profile_pictures/eva.jpeg" style="height:150px; width:auto;"> 
+| <img src="../../assets/profile_pictures/julia.jpeg" style="height:150px; width:auto;"> 
+| <img src="../../assets/profile_pictures/odile.jpg" style="height:150px; width:auto;"> 
+| <img src="../../assets/profile_pictures/ysbrand.jpg" style="height:150px; width:auto;"> 
+| <img src="../../assets/profile_pictures/jb.jpg" style="height:150px; width:auto;"> |
 |---|---|---|---|---|
-|**Eva van Heese**<sup>1</sup> (brain morphology)|**Julia Katharina-Pfarr**<sup>2</sup> (questionnaire harmonisation) |**Odile van den Heuvel**<sup>1, 3</sup> (PI)|**Ysbrand van der Werf**<sup>1</sup> (PI)|**Jean-Baptiste Poline**<sup>2</sup> (PI)|
-
-
+| **Eva van Heese**<sup>1</sup> (brain morphology)
+| **Julia Katharina-Pfarr**<sup>2</sup> (questionnaire harmonisation)
+| **Odile van den Heuvel**<sup>1, 3</sup> (PI)
+| **Ysbrand van der Werf**<sup>1</sup> (PI)
+| **Jean-Baptiste Poline**<sup>2</sup> (PI) |
 
 <sup>1</sup>*Amsterdam UMC location Vrije Universiteit Amsterdam, Department of Anatomy and Neurosciences, Amsterdam, the Netherlands*<br>
 <sup>2</sup>*NeuroDataScience - ORIGAMI laboratory, McConnell Brain Imaging Centre, The Neuro (Montreal Neurological Institute-Hospital), Faculty of Medicine, McGill University, Montreal, Quebec, Canada*<br>
@@ -37,4 +43,5 @@ Read more about this study in the pre-registration (*coming soon!*)
 
 
 [Link to GitHub repository](https://github.com/ENIGMA-infra/psych-in-harmony)
+
 
