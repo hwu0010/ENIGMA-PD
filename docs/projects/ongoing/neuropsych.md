@@ -34,7 +34,7 @@
 
 The aim of this project is to investigate brain morphology correlates of neuropsychiatric symptoms in Parkinson’s Disease. The project includes symptoms of depression, anxiety, apathy, hallucinations and psychosis, impulse control disorders, and sleep disturbances. 
 
-Read more about this project in the full [secondary proposal PDF](https://drive.google.com/drive/folders/1g91YZIBgOT57smjhD9tDaBVSO73Jh8fD). 
+Read more about this project in the full [secondary proposal PDF](docs/assets/secondary_proposals/Neuropsychiatry_ENIGMA_Secondary_Proposal.pdf). 
 
 Link to preregistration: *coming soon!*
 
@@ -53,6 +53,7 @@ Read more about this study in the pre-registration (*coming soon!*)
 
 
 [Link to GitHub repository](https://github.com/ENIGMA-infra/psych-in-harmony)
+
 
 
 
