@@ -2,21 +2,31 @@
 
 ## Project team
 
-| ![](../../assets/profile_pictures/eva.jpeg){: style="height:150px;"} 
-| ![](../../assets/profile_pictures/julia.jpeg){: style="height:150px;"} 
-| ![](../../assets/profile_pictures/odile.jpg){: style="height:150px;"} 
-| ![](../../assets/profile_pictures/ysbrand.jpg){: style="height:150px;"} 
-| ![](../../assets/profile_pictures/jb.jpg){: style="height:150px;"} |
-|---|---|---|---|---|
-| **Eva van Heese**<sup>1</sup> (brain morphology)
-| **Julia Katharina-Pfarr**<sup>2</sup> (questionnaire harmonisation)
-| **Odile van den Heuvel**<sup>1, 3</sup> (PI)
-| **Ysbrand van der Werf**<sup>1</sup> (PI)
-| **Jean-Baptiste Poline**<sup>2</sup> (PI) |
+<div class="grid cards" markdown>
 
-<sup>1</sup>*Amsterdam UMC location Vrije Universiteit Amsterdam, Department of Anatomy and Neurosciences, Amsterdam, the Netherlands*<br>
-<sup>2</sup>*NeuroDataScience - ORIGAMI laboratory, McConnell Brain Imaging Centre, The Neuro (Montreal Neurological Institute-Hospital), Faculty of Medicine, McGill University, Montreal, Quebec, Canada*<br>
+- ![](../../assets/profile_pictures/eva.jpeg){ width="120" }  
+  **Eva van Heese**<sup>1</sup> (brain morphology)  
+
+- ![](../../assets/profile_pictures/julia.jpeg){ width="120" }  
+  **Julia Katharina-Pfarr**<sup>2</sup> (questionnaire harmonisation)  
+
+- ![](../../assets/profile_pictures/odile.jpg){ width="120" }  
+  **Odile van den Heuvel**<sup>1, 3</sup> (PI)  
+
+- ![](../../assets/profile_pictures/ysbrand.jpg){ width="120" }  
+  **Ysbrand van der Werf**<sup>1</sup> (PI)  
+
+- ![](../../assets/profile_pictures/jb.jpg){ width="120" }  
+  **Jean-Baptiste Poline**<sup>2</sup> (PI)  
+
+</div>
+
+---
+
+<sup>1</sup>*Amsterdam UMC location Vrije Universiteit Amsterdam, Department of Anatomy and Neurosciences, Amsterdam, the Netherlands*  
+<sup>2</sup>*NeuroDataScience - ORIGAMI laboratory, McConnell Brain Imaging Centre, The Neuro (Montreal Neurological Institute-Hospital), Faculty of Medicine, McGill University, Montreal, Quebec, Canada*  
 <sup>3</sup>*Amsterdam UMC location Vrije Universiteit Amsterdam, Department of Psychiatry, Amsterdam, the Netherlands*
+
 
 ## Neuropsychiatry in PD - brain morphology study
 
@@ -43,6 +53,7 @@ Read more about this study in the pre-registration (*coming soon!*)
 
 
 [Link to GitHub repository](https://github.com/ENIGMA-infra/psych-in-harmony)
+
 
 
 
