@@ -28,7 +28,7 @@
 - **Singapore**
 - **Stanford**
 - **Stellenbosch**
-- **Taipai**
+- **Taipei**
 - **San Fransisco**
 - **Campinas**
 - **Philadelphia**
