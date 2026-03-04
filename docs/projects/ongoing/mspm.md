@@ -21,7 +21,8 @@
 - ![](../../assets/profile_pictures/jb.jpg){ width="120" }  
   **Jean-Baptiste Poline**<sup>4</sup> (PI)  
 
-- **Michelle Wang**<sup>4</sup> (PhD student)  
+- ![](../../assets/profile_pictures/michelle.jpg){ width="120" }
+  **Michelle Wang**<sup>4</sup> (PhD student)  
 
 </div>
 
