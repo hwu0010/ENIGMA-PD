@@ -32,7 +32,7 @@ With the ENIGMA‑PD list integrated into the tool, sites can annotate their dat
 - Go to [https://beta-annotate.neurobagel.org/](https://beta-annotate.neurobagel.org/)
 - Select **ENIGMA-PD** as configuration.
 
-![Neurobagel ENIGMA-PD Configuration](docs/assets/figures/Neurobagel_ENIGMA-PD_Configuration.png)
+![Neurobagel ENIGMA-PD Configuration](../../assets/figures/Neurobagel_ENIGMA-PD_Configuration.png)
 
 - Upload a TSV file containing demographic and clinical variables.
 - New to Neurobagel? Click through the introduction windows to get started.
