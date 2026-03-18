@@ -30,14 +30,16 @@ With the ENIGMA‑PD list integrated into the tool, sites can annotate their dat
 ### What sites do in this step
 - Go to [https://beta-annotate.neurobagel.org/](https://beta-annotate.neurobagel.org/)
 - Select **ENIGMA-PD** as configuration.
-- Upload a TSV file containing demographic and clinical variables.  
-- **Column annotation**: assign each column or group of columns to a category by clicking on them.  
-  - First, we ask you to assign columns about common demographic categories  (e.g., participant ID, age,  diagnosis, etc) 
-  - Next you assign the remaining columns to entries in the ENIGMA-PD list (e.g. MoCA)
-- **Value annotation**: for assessment‑related columns, select the matching term from the ENIGMA‑PD list.
+- Upload a TSV file containing demographic and clinical variables.
+- New to Neurobagel? Click through the introduction windows to get started.
+- **Column annotation**: Assign each column or group of columns to a standardized variable by clicking on them.
+  -  Select multiple related columns at once using CTRL+click or SHIFT+click
+  - Can't find a column? Filter your column list by name using the search bar at the top left
+  - Can't find a variable? Use the search bar in the assessment tool list to narrow down options
+- **Value annotation**: Review all columns annotated in the previous step and describe their values.
   - Mark missing values.  
   - Optionally add short human‑readable descriptions for uncommon variables.  
-- Download a standardized annotation file that serves as a clean, robust data dictionary.
+- Done? Upload the data dictionary to a protected ENIGMA-PD google drive folder or download it locally and share it with the ENIGMA-PD team by email.
 - **Privacy note:** although the annotation interface is a web app, it runs entirely on your computer and Neurobagel **does not upload any data or retain data**. Your data are used only to populate the annotation interface (read columns and possible values).
 
 ### Why this helps
@@ -51,8 +53,8 @@ With the ENIGMA‑PD list integrated into the tool, sites can annotate their dat
 ---
 
 ## Feedback from early adopters  
-- Annotation is straightforward and user‑friendly.  
-- The main time investment is **the value annotation step**, selecting the correct variable from the ENIGMA‑PD list.  
+- Annotation is straightforward and user‑friendly. It typically takes under an hour for a dataset of around 100 variables. And if you cannot finish in one go, you can always save your progress and continue later   
+- The main time investment is **the column annotation step**, selecting the correct variable from the ENIGMA‑PD list.  
 - Overall experience: not difficult, but requires some attention to detail.
 
 ---
