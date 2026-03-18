@@ -38,6 +38,7 @@ nav:
 
   - Resources: 
     - Overview: resources/overview.md
+    - Neurobagel Data Annotation: resources/how_to_guides/neurobagel.md
     - ENIGMA-PD preregistrations: resources/how_to_guides/preregistrations.md
     
   
