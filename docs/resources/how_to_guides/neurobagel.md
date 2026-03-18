@@ -43,7 +43,7 @@ With the ENIGMA‑PD list integrated into the tool, sites can annotate their dat
   - Mark missing values.  
   - Optionally add short human‑readable descriptions for uncommon variables.  
 - Done? Upload the data dictionary to a protected ENIGMA-PD google drive folder or download it locally and share it with the ENIGMA-PD team by email.
-- !!! info "Privacy note:"
+- !!! info "Privacy note"
       Although the annotation interface is a web app, it runs entirely on your computer and Neurobagel **does not upload any data or retain data**. Your data are used only to populate the annotation interface (read columns and possible values).
 
 ### Why this helps
