@@ -3,7 +3,8 @@ All you need to know about using the Neurobagel Annotation Tool
 
 ## Why this matters  
 As ENIGMA‑PD moves toward sharing richer clinical, cognitive, and neuropsychiatric data across sites, we need a consistent and reliable way to interpret variables. Manual data dictionaries in spreadsheets are prone to typos, inconsistent naming, and misunderstandings about what each variable represents.  
-The Neurobagel workflow provides a structured, user‑friendly way to standardize how we describe clinical data, making it easier to reuse datasets, combine them across sites, and support ENIGMA-PD projects with more advanced clinical measures.Expand commentComment on line R6Resolved
+The Neurobagel workflow provides a structured, user‑friendly way to standardize how we describe clinical data, making it easier to reuse datasets, combine them across sites, and support ENIGMA-PD projects with more advanced clinical measures.
+
 In the future, we hope that the standardized annotations will make it easier for ENIGMA-PD to discover data availability across sites for ongoing and new projects.
 
 ---
