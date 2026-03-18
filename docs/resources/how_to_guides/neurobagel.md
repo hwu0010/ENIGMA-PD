@@ -30,6 +30,9 @@ With the ENIGMA‑PD list integrated into the tool, sites can annotate their dat
 ### What sites do in this step
 - Go to [https://beta-annotate.neurobagel.org/](https://beta-annotate.neurobagel.org/)
 - Select **ENIGMA-PD** as configuration.
+
+![Neurobagel ENIGMA-PD Configuration](docs/assets/figures/Neurobagel_ENIGMA-PD_Configuration.png)
+
 - Upload a TSV file containing demographic and clinical variables.
 - New to Neurobagel? Click through the introduction windows to get started.
 - **Column annotation**: Assign each column or group of columns to a standardized variable by clicking on them.
@@ -40,7 +43,8 @@ With the ENIGMA‑PD list integrated into the tool, sites can annotate their dat
   - Mark missing values.  
   - Optionally add short human‑readable descriptions for uncommon variables.  
 - Done? Upload the data dictionary to a protected ENIGMA-PD google drive folder or download it locally and share it with the ENIGMA-PD team by email.
-- **Privacy note:** although the annotation interface is a web app, it runs entirely on your computer and Neurobagel **does not upload any data or retain data**. Your data are used only to populate the annotation interface (read columns and possible values).
+- !!! info "Privacy note:"
+      Although the annotation interface is a web app, it runs entirely on your computer and Neurobagel **does not upload any data or retain data**. Your data are used only to populate the annotation interface (read columns and possible values).
 
 ### Why this helps
 - Produces a consistent, machine‑readable data dictionary for each cohort.  
