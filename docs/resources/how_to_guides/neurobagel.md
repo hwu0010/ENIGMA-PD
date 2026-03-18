@@ -6,6 +6,7 @@ As ENIGMA‑PD moves toward sharing richer clinical, cognitive, and neuropsychia
 The Neurobagel workflow provides a structured, user‑friendly way to standardize how we describe clinical data, making it easier to reuse datasets, combine them across sites, and support ENIGMA-PD projects with more advanced clinical measures.
 
 In the future, we hope that the standardized annotations will make it easier for ENIGMA-PD to discover data availability across sites for ongoing and new projects.
+You can see a pilot project for this at [enigma.neurobagel.org](https://enigma.neurobagel.org/).
 
 ---
 
@@ -39,11 +40,13 @@ With the ENIGMA‑PD list integrated into the tool, sites can annotate their dat
   -  Select multiple related columns at once using CTRL+click or SHIFT+click
   - Can't find a column? Filter your column list by name using the search bar at the top left
   - Can't find a variable? Use the search bar in the assessment tool list to narrow down options
+  - If no variable fits your column, please use the *description* field to provide us with more context to understand this column
 - **Value annotation**: Review all columns annotated in the previous step and describe their values.
   - Mark missing values.  
   - Optionally add short human‑readable descriptions for uncommon variables.  
 - Done? Upload the data dictionary to a protected ENIGMA-PD google drive folder or download it locally and share it with the ENIGMA-PD team by email.
-- !!! info "Privacy note"
+
+!!! info "Privacy note"
       Although the annotation interface is a web app, it runs entirely on your computer and Neurobagel **does not upload any data or retain data**. Your data are used only to populate the annotation interface (read columns and possible values).
 
 ### Why this helps
@@ -52,7 +55,7 @@ With the ENIGMA‑PD list integrated into the tool, sites can annotate their dat
 (If you make a mistake during annotation, you can simply load your data dictionary into the tool again and correct it)
 - Makes datasets easier to understand, reuse, and combine.  
 
-**Check out the Neurobagel documentation [here](https://neurobagel.org/)**  
+**Check out the Neurobagel documentation [here](https://neurobagel.org/user_guide/annotation_tool/)**  
 
 ---
 
@@ -60,6 +63,9 @@ With the ENIGMA‑PD list integrated into the tool, sites can annotate their dat
 - Annotation is straightforward and user‑friendly. It typically takes under an hour for a dataset of around 100 variables. And if you cannot finish in one go, you can always save your progress and continue later   
 - The main time investment is **the column annotation step**, selecting the correct variable from the ENIGMA‑PD list.  
 - Overall experience: not difficult, but requires some attention to detail.
+
+??? info "Add your feedback to improve the tool"
+    The Neurobagel team continues to improve this tool together with us. If you have an idea for an improvement or find something difficult or confusing, please use the purple button "Give us feedback" on the right edge of the screen
 
 ---
 
