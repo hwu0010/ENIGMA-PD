@@ -61,7 +61,7 @@ With the ENIGMA‑PD vocabulary integrated into the tool, sites can annotate the
 </div>
 
 ### Questions and support
-For questions, please reach out to enigma-pd@amsterdamumc.nl and join the Neurobagel discord server for support: https://discord.gg/sxnCT4QJ7a.
+For questions, please reach out to enigma-pd@amsterdamumc.nl and join [the Neurobagel discord server](https://discord.gg/sxnCT4QJ7a) for support.
 
 ### Why this helps
 - Produces a consistent, machine‑readable data dictionary for each cohort.  
@@ -85,5 +85,5 @@ For questions, please reach out to enigma-pd@amsterdamumc.nl and join the Neurob
 
 ## Next steps for sites  
 - Annotate your clinical spreadsheet using the ENIGMA‑PD list and Neurobagel tool.  
-- Reach out to enigma-pd@amsterdamumc.nl or join the Neurobagel discord server for support: https://discord.gg/sxnCT4QJ7a.
+- Reach out to enigma-pd@amsterdamumc.nl or join [the Neurobagel discord server](https://discord.gg/sxnCT4QJ7a) for support.
 - Share feedback on missing variables (through [this form](https://forms.gle/za9fEQCnhi5GZ4rt6)) or usability improvements.
