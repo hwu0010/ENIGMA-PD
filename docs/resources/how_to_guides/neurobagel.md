@@ -55,9 +55,9 @@ With the ENIGMA‑PD vocabulary integrated into the tool, sites can annotate the
 - Optionally add short human‑readable descriptions for uncommon variables.  
 - Done? Upload the data dictionary to a protected ENIGMA-PD google drive folder (email us for the password) or download it locally and share it with the ENIGMA-PD team by email.
 
-<div style="display: flex; gap: 10px;">
-  <img src="../../assets/figures/Neurobagel_ENIGMA-PD_GDrive_upload.png" width="400" />
-  <img src="../../assets/figures/Neurobagel_ENIGMA-PD_GDrive_upload_popup.png" width="400" />
+<div style="display: flex;">
+  <img src="../../assets/figures/Neurobagel_ENIGMA-PD_GDrive_upload.png" />
+  <img src="../../assets/figures/Neurobagel_ENIGMA-PD_GDrive_upload_popup.png" />
 </div>
 
 ### Questions and support
