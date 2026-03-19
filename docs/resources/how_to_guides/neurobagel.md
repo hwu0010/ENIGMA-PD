@@ -55,12 +55,12 @@ With the ENIGMA‑PD vocabulary integrated into the tool, sites can annotate the
 - Optionally add short human‑readable descriptions for uncommon variables.  
 - Done? Upload the data dictionary to a protected ENIGMA-PD google drive folder or download it locally and share it with the ENIGMA-PD team by email.
 
-
+<br>
 
 Click "Upload Data Dictionary to ENIGMA-PD"
 ![Neurobagel ENIGMA-PD GDrive upload](../../assets/figures/Neurobagel_ENIGMA-PD_GDrive_upload.png)
 
-
+<br>
 
 Select your site from the drop-down menu, provide your cohort name, and type in the password (which was shared with you by email, if you've lost it, please reach out to us)
 ![Neurobagel ENIGMA-PD GDrive upload popup](../../assets/figures/Neurobagel_ENIGMA-PD_GDrive_upload_popup.png)
