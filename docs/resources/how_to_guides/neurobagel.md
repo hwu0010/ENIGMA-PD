@@ -14,7 +14,8 @@ You can see a pilot project for this at [enigma.neurobagel.org](https://enigma.n
 To support harmonized annotation, ENIGMA‑PD created a curated list of PD‑relevant variables. Standard vocabularies in Neurobagel are broad, and many PD‑specific assessments (cognition, motor, neuropsychiatry, behaviour) were missing.  
 The ENIGMA‑PD list fills this gap and ensures that all sites annotate their data using the same shared terminology.
 
-This list is a work in progress and will continue to evolve. We are keen to hear from sites if important variables they collect are missing, so we can expand and refine the list together. Please reach out to enigma-pd@amsterdamumc.nl.
+!!! info "Privacy note"
+    We are still expanding our ENIGMA-PD variable list. If you collect variables that other sites may also have, and that could be interesting for future ENIGMA-PD projects, please submit them to us through [this form](https://forms.gle/za9fEQCnhi5GZ4rt6). We would love to expand the list together.
 
 ### What this step provides
 - A consortium‑wide reference list of PD‑specific assessments and clinical variables.  
@@ -25,8 +26,11 @@ This list is a work in progress and will continue to evolve. We are keen to hear
 
 ---
 
-## 2. Annotation using the Neurobagel Tool  
-With the ENIGMA‑PD list integrated into the tool, sites can annotate their datasets in a structured and intuitive way.
+## 2. Annotation using Neurobagel
+With the ENIGMA‑PD vocabulary integrated into the tool, sites can annotate their datasets in a structured and intuitive way.
+
+!!! info "Privacy note"
+      Although the annotation interface is a web app, it runs entirely on your computer and Neurobagel **does not upload any data or retain data**. Your data are used only to populate the annotation interface (read columns and possible values).
 
 ### What sites do in this step
 - Go to [https://beta-annotate.neurobagel.org/](https://beta-annotate.neurobagel.org/)
@@ -34,7 +38,7 @@ With the ENIGMA‑PD list integrated into the tool, sites can annotate their dat
 
 ![Neurobagel ENIGMA-PD Configuration](../../assets/figures/Neurobagel_ENIGMA-PD_Configuration.png)
 
-- Upload a TSV file containing demographic and clinical variables.
+- Upload a TSV file containing demographic and clinical variables. Please annotate **all clinical and demographic** variables available in your dataset.
 - New to Neurobagel? Click through the introduction windows to get started.
 - **Column annotation**: Assign each column or group of columns to a standardized variable by clicking on them.
   -  Select multiple related columns at once using CTRL+click or SHIFT+click
@@ -44,10 +48,17 @@ With the ENIGMA‑PD list integrated into the tool, sites can annotate their dat
 - **Value annotation**: Review all columns annotated in the previous step and describe their values.
   - Mark missing values.  
   - Optionally add short human‑readable descriptions for uncommon variables.  
-- Done? Upload the data dictionary to a protected ENIGMA-PD google drive folder or download it locally and share it with the ENIGMA-PD team by email.
+- Done? Upload the data dictionary to a protected ENIGMA-PD google drive folder (email us for the password) or download it locally and share it with the ENIGMA-PD team by email.
 
-!!! info "Privacy note"
-      Although the annotation interface is a web app, it runs entirely on your computer and Neurobagel **does not upload any data or retain data**. Your data are used only to populate the annotation interface (read columns and possible values).
+<table>
+  <tr>
+    <td><img src="../../assets/figures/Neurobagel_ENIGMA-PD_GDrive_upload.png" width="400" /></td>
+    <td><img src="../../assets/figures/Neurobagel_ENIGMA-PD_GDrive_upload_popup.png" width="400" /></td>
+  </tr>
+</table>
+
+### Questions and support
+For questions, please reach out to enigma-pd@amsterdamumc.nl and join the Neurobagel discord server for support: https://discord.gg/sxnCT4QJ7a.
 
 ### Why this helps
 - Produces a consistent, machine‑readable data dictionary for each cohort.  
@@ -65,11 +76,11 @@ With the ENIGMA‑PD list integrated into the tool, sites can annotate their dat
 - Overall experience: not difficult, but requires some attention to detail.
 
 ??? info "Add your feedback to improve the tool"
-    The Neurobagel team continues to improve this tool together with us. If you have an idea for an improvement or find something difficult or confusing, please use the purple button "Give us feedback" on the right edge of the screen
+    The Neurobagel team continues to improve this tool together with us. If you have an idea for an improvement or find something difficult or confusing, please use the purple button "Give us feedback" on the right edge of the screen.
 
 ---
 
 ## Next steps for sites  
-- Annotate your clinical dataset using the ENIGMA‑PD list and Neurobagel tool.  
-- Reach out to enigma-pd@amsterdamumc.nl for support!
-- Share feedback on missing variables or usability improvements.
+- Annotate your clinical spreadsheet using the ENIGMA‑PD list and Neurobagel tool.  
+- Reach out to enigma-pd@amsterdamumc.nl or join the Neurobagel discord server for support: https://discord.gg/sxnCT4QJ7a.
+- Share feedback on missing variables (through [this form](https://forms.gle/za9fEQCnhi5GZ4rt6)) or usability improvements.
