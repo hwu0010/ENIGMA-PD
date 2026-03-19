@@ -1,7 +1,7 @@
 # ENIGMA‑PD Data Annotation Workflow  
-All you need to know about using the Neurobagel Annotation Tool
+*This page covers everything you need to get started with the Neurobagel Annotation Tool.*
 
-## Why this matters  
+## Why this matters
 As ENIGMA‑PD moves toward sharing richer clinical, cognitive, and neuropsychiatric data across sites, we need a consistent and reliable way to interpret variables. Manual data dictionaries in spreadsheets are prone to typos, inconsistent naming, and misunderstandings about what each variable represents.  
 The Neurobagel workflow provides a structured, user‑friendly way to standardize how we describe clinical data, making it easier to reuse datasets, combine them across sites, and support ENIGMA-PD projects with more advanced clinical measures.
 
@@ -11,8 +11,7 @@ You can see a pilot project for this at [enigma.neurobagel.org](https://enigma.n
 ---
 
 ## 1. ENIGMA‑PD Custom Variable List  
-To support harmonized annotation, ENIGMA‑PD created a curated list of PD‑relevant variables. Standard vocabularies in Neurobagel are broad, and many PD‑specific assessments (cognition, motor, neuropsychiatry, behaviour) were missing.  
-The ENIGMA‑PD list fills this gap and ensures that all sites annotate their data using the same shared terminology.
+To support harmonized annotation, ENIGMA‑PD created a curated list of PD‑relevant variables. Standard vocabularies in Neurobagel are broad, and many PD‑specific assessments (cognition, motor, neuropsychiatry, behaviour) were missing. The ENIGMA‑PD list fills this gap and ensures that all sites annotate their data using the same shared terminology.
 
 !!! info "ENIGMA-PD vocabulary"
     We are still expanding our ENIGMA-PD variable list. If you collect variables that other sites may also have, and that could be interesting for future ENIGMA-PD projects, please submit them to us through [this form](https://forms.gle/za9fEQCnhi5GZ4rt6). We would love to expand the list together.
@@ -22,7 +21,7 @@ The ENIGMA‑PD list fills this gap and ensures that all sites annotate their da
 - A controlled vocabulary that appears directly inside the Neurobagel Annotation Tool.  
 - A mechanism for sites to suggest missing variables.
 
-**Check out the ENIGMA‑PD variable list [here](https://docs.google.com/spreadsheets/d/1pwi6df8LKc3xFENH9JcOUk1HKHARspt-2lUhsy2JYAE/edit?usp=sharing)**  
+**Check out the ENIGMA‑PD variable list [here!](https://docs.google.com/spreadsheets/d/1pwi6df8LKc3xFENH9JcOUk1HKHARspt-2lUhsy2JYAE/edit?usp=sharing)**  
 
 ---
 
@@ -40,17 +39,21 @@ With the ENIGMA‑PD vocabulary integrated into the tool, sites can annotate the
 
 - Upload a TSV file containing demographic and clinical variables. Please annotate **all clinical and demographic** variables available in your dataset.
 - New to Neurobagel? Click through the introduction windows to get started.
-- **Column annotation**: Assign each column or group of columns to a standardized variable by clicking on them.
+
+#### Column annotation
+Goal: Assign each column or group of columns to a standardized variable by clicking on them.
   -  Select multiple related columns at once using CTRL+click or SHIFT+click
   - Can't find a column? Filter your column list by name using the search bar at the top left
   - Can't find a variable? Use the search bar in the assessment tool list to narrow down options
   - If no variable fits your column, please use the *description* field to provide us with more context to understand this column
-- **Value annotation**: Review all columns annotated in the previous step and describe their values.
+
+#### Value annotation
+Goal: Review all columns annotated in the previous step and describe their values.
   - Mark missing values.  
   - Optionally add short human‑readable descriptions for uncommon variables.  
 - Done? Upload the data dictionary to a protected ENIGMA-PD google drive folder (email us for the password) or download it locally and share it with the ENIGMA-PD team by email.
 
-<table>
+<table markdown="1">
   <tr>
     <td><img src="../../assets/figures/Neurobagel_ENIGMA-PD_GDrive_upload.png" width="400" /></td>
     <td><img src="../../assets/figures/Neurobagel_ENIGMA-PD_GDrive_upload_popup.png" width="400" /></td>
