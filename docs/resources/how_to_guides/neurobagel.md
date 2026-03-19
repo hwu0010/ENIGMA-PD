@@ -56,14 +56,14 @@ With the ENIGMA‑PD vocabulary integrated into the tool, sites can annotate the
 - Done? Upload the data dictionary to a protected ENIGMA-PD google drive folder or download it locally and share it with the ENIGMA-PD team by email.
 
 
-Click "Upload Data Dictionary to ENIGMA-PD"
 
-<img src="../../assets/figures/Neurobagel_ENIGMA-PD_GDrive_upload.png" width="500" />
+Click "Upload Data Dictionary to ENIGMA-PD"
+![Neurobagel ENIGMA-PD GDrive upload](../../assets/figures/Neurobagel_ENIGMA-PD_GDrive_upload.png)
+
 
 
 Select your site from the drop-down menu, provide your cohort name, and type in the password (which was shared with you by email, if you've lost it, please reach out to us)
-
-<img src="../../assets/figures/Neurobagel_ENIGMA-PD_GDrive_upload_popup.png" width="500" />
+![Neurobagel ENIGMA-PD GDrive upload popup](../../assets/figures/Neurobagel_ENIGMA-PD_GDrive_upload_popup.png)
 
 ### Questions and support
 For questions, please reach out to enigma-pd@amsterdamumc.nl and join [the Neurobagel discord server](https://discord.gg/sxnCT4QJ7a) for support.
