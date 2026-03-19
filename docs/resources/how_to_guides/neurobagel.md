@@ -14,7 +14,7 @@ You can see a pilot project for this at [enigma.neurobagel.org](https://enigma.n
 To support harmonized annotation, ENIGMA‑PD created a curated list of PD‑relevant variables. Standard vocabularies in Neurobagel are broad, and many PD‑specific assessments (cognition, motor, neuropsychiatry, behaviour) were missing.  
 The ENIGMA‑PD list fills this gap and ensures that all sites annotate their data using the same shared terminology.
 
-!!! info "Privacy note"
+!!! info "ENIGMA-PD vocabulary"
     We are still expanding our ENIGMA-PD variable list. If you collect variables that other sites may also have, and that could be interesting for future ENIGMA-PD projects, please submit them to us through [this form](https://forms.gle/za9fEQCnhi5GZ4rt6). We would love to expand the list together.
 
 ### What this step provides
