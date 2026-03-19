@@ -42,6 +42,7 @@ With the ENIGMA‑PD vocabulary integrated into the tool, sites can annotate the
 
 #### Column annotation
 **Goal:** Assign each column or group of columns to a standardized variable by clicking on them.
+
 - Select multiple related columns at once using CTRL+click or SHIFT+click
 - Can't find a column? Filter your column list by name using the search bar at the top left
 - Can't find a variable? Use the search bar in the assessment tool list to narrow down options
@@ -49,6 +50,7 @@ With the ENIGMA‑PD vocabulary integrated into the tool, sites can annotate the
 
 #### Value annotation
 **Goal:** Review all columns annotated in the previous step and describe their values.
+
 - Mark missing values.  
 - Optionally add short human‑readable descriptions for uncommon variables.  
 - Done? Upload the data dictionary to a protected ENIGMA-PD google drive folder (email us for the password) or download it locally and share it with the ENIGMA-PD team by email.
