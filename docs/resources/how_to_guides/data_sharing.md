@@ -2,9 +2,10 @@
 
 ## Important things to consider
 Once you have completed all the steps above, your derived data is ready to be shared with USC, where it will be accessible to the ENIGMA-PD core team and project leads (following opt-in). All data will remain on the USC server. Before transferring, please take the following steps:
-Review the .tsv and Excel files to confirm completeness. Verify that all participants are included, there are no missing or unexpected values, and that quality assessment scores have been assigned to each ROI and participant.
-Determine whether you are authorized to share the quality control .png files. These images, together with your quality assessment scores, will be used to train automated machine learning models for ENIGMA's quality checking pipelines, with the goal of reducing the need for manual review in the future.
-If your site has a preferred data transfer method (different from those described below), please let us know and we will do our best to accommodate it. Be sure to confirm this with your PI and consult your data transfer agreement beforehand.
+
+- **Review the .tsv and Excel files to confirm completeness**. Verify that all participants are included, there are no missing or unexpected values, and that quality assessment scores have been assigned to each ROI and participant.
+- Determine whether you are authorized to share the **quality control .png files**. These images, together with your quality assessment scores, will be used to train automated machine learning models for ENIGMA's quality checking pipelines, with the goal of reducing the need for manual review in the future.
+- If your site has a preferred data transfer method (different from those described below), please let us know and we will do our best to accommodate it. Be sure to confirm this with your PI and consult your data transfer agreement beforehand.
 
 ## Data to be shared
 
