@@ -53,21 +53,45 @@ Login details are not public and are only shared with ENIGMA-PD sites that have 
 
 #### Option A1: Upload via graphical interface, for example Filezilla (drag-and-drop)
 Open your preferred tool and connect using the following details:
-Host: sftp://ftp.loni.usc.edu
-Username: enigma_pd
-Password: (request via ENIGMA-PD@amsterdamumc.nl)
-Port: 22
-Once connected, navigate to /ftphome/enigma_pd/ and find the folder prepared for your site (e.g. AMS2). You can then drag and drop your files into it. 
+
+- Host: sftp://ftp.loni.usc.edu
+
+- Username: enigma_pd
+
+- Password: (request via ENIGMA-PD@amsterdamumc.nl)
+
+- Port: 22
+
+Once connected, you should be in `/ftphome/enigma_pd/`. Find the folder prepared for your site (e.g. AMS2) and drag and drop your files into it.
 
 #### Option A2: Upload via command line
 Open a terminal and log on to the USC server:
 `sftp enigma_pd@ftp.loni.usc.edu`
 
-This places you in /ftphome/enigma_pd/. Navigate to the folder prepared for your site, for example:
+This places you in `/ftphome/enigma_pd/`. Navigate to the folder prepared for your site, for example:
 `cd AMS2`
 
 Upload a single file: `put AMS2.tsv`
 Upload a folder: `put -r AMS2`
+
+**Note:**
+When logging in, you might get an error that looks like this:
+```
+Unable to negotiate with 10.2.2.175 port 22: no matching host key type found.
+Their offer: ssh-rsa,ssh-dss
+```
+If that is the case, on your local machine, navigate to:
+`cd /etc/ssh/`
+
+Then use a text editor like vim to amend the ssh_config file (you may need to use sudo and add in your machine password):
+`sudo vim ssh_config`
+
+Add these two lines at the bottom of the config when in insert mode (press "i")                                                                  
+```
+HostkeyAlgorithms +ssh-rsa  
+PubkeyAcceptedAlgorithms +ssh-rsa 
+```
+Save the config file using by pressing esc, then typing :wq! (include the colon). Try again once that is saved.
 
 ### Option B: Sites with a Data Transfer Agreement (DTA)
 If your site has a DTA in place, the shared SFTP route above is likely not an approved method of transfer, as it does not prevent other sites from accessing your data. Therefore, we also provide the possibility to send the data securely and encrypted using [SURFfilesender](https://www.surf.nl/en/services/storage-data-management/surffilesender). 
