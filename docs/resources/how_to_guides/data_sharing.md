@@ -100,7 +100,7 @@ If your site has a DTA in place, the shared SFTP route above is likely not an ap
 For this, you can use the personal invitation link that you received by email. This email has been sent from **SURFfilesender \<noreply@surf.nl\>** on behalf of our team, so please check your spam or junk folder if you do not see it in your inbox. The email will contain a voucher link and will look something like this:
 >*"Please find below a voucher which grants access to SURFfilesender. You can use this voucher to upload one set of files and make it available for download."*
 
-The voucher link will be valid for 40 days, so please use it in time. If you did not receive the email, cannot find it, or need a new link, please reach out to us at ENIGMA-PD@amsterdamumc.nl.
+The voucher link will be valid for 60 days, so please use it in time. If you did not receive the email, cannot find it, or need a new link, please reach out to us at ENIGMA-PD@amsterdamumc.nl.
 
 #### Option B2: Upload via command line
 
