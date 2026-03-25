@@ -5,6 +5,8 @@
 
 -   :octicons-arrow-right-24: [__Why do BIDSification__](how_to_guides/BIDS_info.md)
 
+-   :octicons-arrow-right-24: [__How to annotate data using Neurobagel__](how_to_guides/neurobagel.md)
+
 -   :octicons-arrow-right-24: [__What is Templateflow__](how_to_guides/Templateflow_info.md)
 
 -   :octicons-arrow-right-24: [__Using containers__](how_to_guides/Container_platforms.md)
