@@ -54,19 +54,18 @@ Login details are not public and are only shared with ENIGMA-PD sites that have 
 #### Option A1: Upload via graphical interface, for example Filezilla (drag-and-drop)
 Open your preferred tool and connect using the following details:
 
-- Host: sftp://ftp.loni.usc.edu
+- Host: (request via ENIGMA-PD@amsterdamumc.nl)
 
-- Username: enigma_pd
+- Username: (request via ENIGMA-PD@amsterdamumc.nl)
 
 - Password: (request via ENIGMA-PD@amsterdamumc.nl)
 
-- Port: 22
+- Port: (request via ENIGMA-PD@amsterdamumc.nl)
 
 Once connected, you should be in `/ftphome/enigma_pd/`. Find the folder prepared for your site (e.g. AMS2) and drag and drop your files into it.
 
 #### Option A2: Upload via command line
-Open a terminal and log on to the USC server:
-`sftp enigma_pd@ftp.loni.usc.edu`
+Open a terminal and log on to the USC server (request log-in details via ENIGMA-PD@amsterdamumc.nl)
 
 This places you in `/ftphome/enigma_pd/`. Navigate to the folder prepared for your site, for example:
 `cd AMS2`
