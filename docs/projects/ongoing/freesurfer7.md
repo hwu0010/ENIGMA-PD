@@ -22,7 +22,7 @@ For more information, see the [Nipoppy documentation](https://nipoppy.readthedoc
 **Here, primairly we will use Nipoppy to help you with 1) BIDSification, 2) FreeSurfer7 processing, 3) Sub-segmentation and 4) Quality control.** 
 
 ## Running FreeSurfer 7
-When you reach this point, the hardest part is behind you and we can finally come to the real stuff. We will run FreeSurfer 7 through fMRIPrep using Nipoppy. See [here](https://nipoppy.readthedocs.io/en/latest/how_to_guides/user_guide/processing.html) for additional information about running processing pipelines with Nipoppy.
+When you reach this point, the hardest part is behind you and we can finally come to the real stuff. We will run FreeSurfer 7 through fMRIPrep using Nipoppy. See [here](https://nipoppy.readthedocs.io/en/latest/how_to_guides/pipeline_run/index.html) for additional information about running processing pipelines with Nipoppy.
 
 ### Cortical and subcortical segmentations: [Link to instructions](https://enigma-infra.github.io/resources/how_to_guides/freesurfer7/){:target="_blank"}
 We will apply the FreeSurfer functionalities that are included in the fMRIPrep pipeline. We assume here that you have Apptainer installed as your container platform (see [here](../resources/Container_platforms.md){:target="_blank"} for more info and how to get it).
