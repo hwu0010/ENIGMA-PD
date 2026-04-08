@@ -41,7 +41,7 @@ Quality checking is essential to make sure the output that you have produced is 
 
 **At this stage, visual quality assessment of the subsegmentations (e.g., thalamic or hippocampal nuclei) is not required, as there are no established protocols yet and the process would be highly time-consuming; statistical checks (e.g., outlier detection) can be used instead. This may be followed up at a later stage, once there is a project that specifically focuses on these outcomes and the necessary anatomical expertise is available to develop a dedicated quality control manual.**
 
-You can find the updated ENIGMA-PD QC instructions for visual inspection [here](../resources/ENIGMA-PD_visual_QC_instructions.md){:target="_blank"}.
+You can find the updated ENIGMA-PD QC instructions for visual inspection [here](../../resources/ENIGMA-PD_visual_QC_instructions.md){:target="_blank"}.
 
 ---
 
