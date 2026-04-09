@@ -37,7 +37,12 @@ With the ENIGMA‑PD vocabulary integrated into the tool, sites can annotate the
 
 ![Neurobagel ENIGMA-PD Configuration](../../assets/figures/Neurobagel_ENIGMA-PD_Configuration.png)
 
-- Upload a TSV file containing demographic and clinical variables. Please annotate **all clinical and demographic** variables available in your dataset.
+- Upload a TSV file containing demographic and clinical variables (if you still need to convert your data from CSV or Excel, see the [Neurobagel documentation on TSVs](https://neurobagel.org/glossary/#tsv)). Please annotate **all clinical and demographic** variables available in your dataset.
+
+> [!IMPORTANT]
+> **Include item-level data if available**
+> If your site collected individual item or question scores (e.g., for neuropsychiatry questionnaires, the (MDS-)UPDRS, or related scales), please prioritise sharing and annotating these over total or subscale scores only. Item-level data is required for upcoming ENIGMA-PD projects such as the [Neuropsychiatry project](https://enigma-infra.github.io/ENIGMA-PD/projects/ongoing/neuropsych/) and the [Multiple Symptom Progression Modelling project](https://enigma-infra.github.io/ENIGMA-PD/projects/ongoing/mspm/).
+
 - New to Neurobagel? Click through the introduction windows to get started.
 
 #### Column annotation
@@ -46,6 +51,8 @@ With the ENIGMA‑PD vocabulary integrated into the tool, sites can annotate the
 - Select multiple related columns at once using CTRL+click or SHIFT+click
 - Can't find a column? Filter your column list by name using the search bar at the top left
 - Can't find a variable? Use the search bar in the assessment tool list to narrow down options
+- Note that variable names in the tool may not always match your local naming conventions, for example, what your site calls "disease duration" may be listed as "time since diagnosis". 
+  If a search does not return results, try alternative terms or synonyms. You can also browse the [full ENIGMA-PD variable list](https://docs.google.com/spreadsheets/d/1pwi6df8LKc3xFENH9JcOUk1HKHARspt-2lUhsy2JYAE/edit?usp=sharing) to get an overview of all available terms before annotating.
 - If no variable fits your column, please use the *description* field to provide us with more context to understand this column
 
 #### Value annotation
