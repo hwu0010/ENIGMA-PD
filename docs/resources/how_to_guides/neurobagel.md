@@ -39,9 +39,12 @@ With the ENIGMA‑PD vocabulary integrated into the tool, sites can annotate the
 
 - Upload a TSV file containing demographic and clinical variables (if you still need to convert your data from CSV or Excel, see the [Neurobagel documentation on TSVs](https://neurobagel.org/glossary/#tsv)). Please annotate **all clinical and demographic** variables available in your dataset.
 
-> [!IMPORTANT]
-> **Include item-level data if available**
-> If your site collected individual item or question scores (e.g., for neuropsychiatry questionnaires, the (MDS-)UPDRS, or related scales), please prioritise sharing and annotating these over total or subscale scores only. Item-level data is required for upcoming ENIGMA-PD projects such as the [Neuropsychiatry project](https://enigma-infra.github.io/ENIGMA-PD/projects/ongoing/neuropsych/) and the [Multiple Symptom Progression Modelling project](https://enigma-infra.github.io/ENIGMA-PD/projects/ongoing/mspm/).
+!!! important "Include item-level data if available"
+    If your site collected individual item or question scores (e.g., for neuropsychiatry 
+    questionnaires, the (MDS-)UPDRS, or related scales), please prioritise sharing and 
+    annotating these over total or subscale scores only. Item-level data is required for 
+    upcoming ENIGMA-PD projects such as the [Neuropsychiatry project](https://enigma-infra.github.io/ENIGMA-PD/projects/ongoing/neuropsych/) 
+    and the [Multiple Symptom Progression Modelling project](https://enigma-infra.github.io/ENIGMA-PD/projects/ongoing/mspm/).
 
 - New to Neurobagel? Click through the introduction windows to get started.
 
