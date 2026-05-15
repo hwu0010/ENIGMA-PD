@@ -49,7 +49,7 @@ Questionnaire data is often multidimensional and a mapping from one questionnair
   <figcaption>Harmonisation Workflow</figcaption>
 </figure>
 
-Read more about this study in the pre-registration (*coming soon!*)
+Read more about this study in the [OSF preregistration](https://osf.io/caxzb/overview).
 
 
 [Link to GitHub repository](https://github.com/ENIGMA-infra/psych-in-harmony)
