@@ -1,3 +1,3 @@
 # White Matter Lesion project
 
-This page is under construction and will soon be filled with exciting details about this project.
+Read more about this project in the full [secondary proposal](../../assets/secondary_proposals/ENIGMA_Secondary_Proposal_WML.pdf).

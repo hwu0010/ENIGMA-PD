@@ -19,5 +19,7 @@
 
 -   :octicons-arrow-right-24: [__Normative Modelling (fMRI)__](normative_modelling.md)
 
+-   :octicons-arrow-right-24: [__ParkCore__](parkcore.md)
+
 
 </div>
