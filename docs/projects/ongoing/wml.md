@@ -8,7 +8,7 @@
   **Sarah Al-Bachari (PI)**<sup>1</sup> 
 
 - ![](../../assets/profile_pictures/HamiedHaroon.jpg){ width="120" }  
-  **Hamied Haroon (PI)**<sup>1</sup> 
+  **Hamied Haroon (PI)**<sup>2</sup> 
 
 - ![](../../assets/profile_pictures/AnetteSchrag.jpg){ width="120" }  
   **Anette Schrag (Parkinson’s Disease Specialist)**<sup>1</sup> 
@@ -23,10 +23,6 @@
 <sup>1</sup>*UCL Queen Square Institute of Neurology, Department of Clinical and Movement Neurosciences, University College London, London, UK*
 
 <sup>2</sup>*School of Health Sciences, Faculty of Biology, Medicine and Health, The University of Manchester, Manchester, UK; Geoffrey Jefferson Brain Research Centre, The University of Manchester, Manchester, UK*
-
-<sup>3</sup>*UCL Queen Square Institute of Neurology, Department of Clinical and Movement Neurosciences, University College London, London, UK*
-
-<sup>4</sup>*UCL Queen Square Institute of Neurology, Department of Clinical and Movement Neurosciences, University College London, London, UK* 
 
 ## Project summary
 
@@ -61,5 +57,7 @@ Look out for our upcoming publication on the ENIGMA-PD-WML Pipeline Toolkit Pape
 
 ## Contact Details:
 Sarah Al-Bachari: s.al-bachari@ucl.ac.uk
+
 Hamied Haroon: hamied.haroon@manchester.ac.uk
+
 Shauna Angell: shauna.angell.24@ucl.ac.uk
