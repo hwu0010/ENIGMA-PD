@@ -5,16 +5,16 @@
 <div class="grid cards" markdown>
 
 - ![](../../assets/profile_pictures/SarahAlBachari.png){ width="120" }  
-  **Sarah Al-Bachari (PI)**<sup>1</sup> 
+  **Sarah Al-Bachari**<sup>1</sup> (PI)
 
 - ![](../../assets/profile_pictures/HamiedHaroon.jpg){ width="120" }  
-  **Hamied Haroon (PI)**<sup>2</sup> 
+  **Hamied Haroon**<sup>2</sup>  (PI)
 
 - ![](../../assets/profile_pictures/AnetteSchrag.jpg){ width="120" }  
-  **Anette Schrag (Parkinson’s Disease Specialist)**<sup>1</sup> 
+  **Anette Schrag**<sup>1</sup> (Parkinson’s Disease Specialist)
 
 - ![](../../assets/profile_pictures/ShaunaAngell.jpg){ width="120" }  
-  **Shauna Angell (Research Assistant)**<sup>1</sup> 
+  **Shauna Angell**<sup>1</sup> (Research Assistant) 
 
 </div>
 
